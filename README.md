@@ -58,7 +58,7 @@ Users can register or log in using their email, add books to their **wishlist**,
 ### 🔐 Authentication Flow
 | Splash | Welcome | Login | Register | Forget Password | OTP | Create Password | Password Changed |
 |---------|----------|--------|-----------|------------------|------|------------------|------------------|
-| ![Splash](splash.png) | ![Welcome](welcome.png) | ![Login](login.png) | ![Register](register.png) | ![Forget Password](forget_password.png) | ![OTP](otp.png) | ![Create Password](creat_password.png) | ![Password Changed](password_changed.png) |
+| ![Splash](imagges-git/splash.png) | ![Welcome](welcome.png) | ![Login](login.png) | ![Register](register.png) | ![Forget Password](forget_password.png) | ![OTP](otp.png) | ![Create Password](creat_password.png) | ![Password Changed](password_changed.png) |
 
 ### 🏠 Main App Screens
 | Home | Details | Wishlist | Search | Cart | Profile | My Orders | Edit Profile | Reset Password |
