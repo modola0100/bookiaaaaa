@@ -63,7 +63,7 @@ Users can register or log in using their email, add books to their **wishlist**,
 ### 🏠 Main App Screens
 | Home | Details | Wishlist | Search | Cart | Profile | My Orders | Edit Profile | Reset Password |
 |------|----------|-----------|---------|------|----------|-------------|---------------|----------------|
-| ![Home](home.png) | ![Details](imagges-git/details.png) | ![Wishlist](imagges-git/wishlist.png) | ![Search](imagges-git/search.png) | ![Cart](imagges-git/cart.png) | ![Profile](imagges-git/profile.png) | ![My Orders](imagges-git/my_order.png) | ![Edit Profile](imagges-git/edit_profile.png) | ![Reset Password](imagges-git/reset_password.png) |
+| ![Home](imagges-git/home.png) | ![Details](imagges-git/details.png) | ![Wishlist](imagges-git/wishlist.png) | ![Search](imagges-git/search.png) | ![Cart](imagges-git/cart.png) | ![Profile](imagges-git/profile.png) | ![My Orders](imagges-git/my_order.png) | ![Edit Profile](imagges-git/edit_profile.png) | ![Reset Password](imagges-git/reset_password.png) |
 
 
 ---
