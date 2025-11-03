@@ -58,12 +58,12 @@ Users can register or log in using their email, add books to their **wishlist**,
 ### 🔐 Authentication Flow
 | Splash | Welcome | Login | Register | Forget Password | OTP | Create Password | Password Changed |
 |---------|----------|--------|-----------|------------------|------|------------------|------------------|
-| ![Splash](imagges-git/splash.png) | ![Welcome](welcome.png) | ![Login](login.png) | ![Register](register.png) | ![Forget Password](forget_password.png) | ![OTP](otp.png) | ![Create Password](creat_password.png) | ![Password Changed](password_changed.png) |
+| ![Splash](imagges-git/splash.png) | ![Welcome](imagges-git/welcome.png) | ![Login](imagges-git/login.png) | ![Register](imagges-git/register.png) | ![Forget Password](imagges-git/forget_password.png) | ![OTP](imagges-git/otp.png) | ![Create Password](imagges-git/creat_password.png) | ![Password Changed](imagges-git/password_changed.png) |
 
 ### 🏠 Main App Screens
 | Home | Details | Wishlist | Search | Cart | Profile | My Orders | Edit Profile | Reset Password |
 |------|----------|-----------|---------|------|----------|-------------|---------------|----------------|
-| ![Home](home.png) | ![Details](details.png) | ![Wishlist](wishlist.png) | ![Search](search.png) | ![Cart](cart.png) | ![Profile](profile.png) | ![My Orders](my_order.png) | ![Edit Profile](edit_profile.png) | ![Reset Password](reset_password.png) |
+| ![Home](home.png) | ![Details](imagges-git/details.png) | ![Wishlist](imagges-git/wishlist.png) | ![Search](imagges-git/search.png) | ![Cart](imagges-git/cart.png) | ![Profile](imagges-git/profile.png) | ![My Orders](imagges-git/my_order.png) | ![Edit Profile](imagges-git/edit_profile.png) | ![Reset Password](imagges-git/reset_password.png) |
 
 
 ---
@@ -97,4 +97,4 @@ Built with Flutter using **Clean Architecture** and **Cubit** for state manageme
 
 ## 🪪 License
 
-MIT License © 2025  Mohamedd Adel
+MIT License © 2025  Mohamed Adel
